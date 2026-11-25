@@ -1,0 +1,8 @@
+# Google Colab ya incluye torch, torchvision, numpy, matplotlib y pillow
+torch>=2.2
+torchvision
+diffusers>=0.30      # probado con 0.43
+transformers>=4.40   # probado con 5.24
+peft>=0.12           # probado con 0.22
+accelerate
+datasets             # sólo notebook 03

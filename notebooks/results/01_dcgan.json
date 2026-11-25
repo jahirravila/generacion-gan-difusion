@@ -1,0 +1,16 @@
+{
+  "epocas": 400,
+  "iteraciones": 4800,
+  "tiempo_min": 9.6,
+  "params_G": 1099200,
+  "params_D": 693632,
+  "loss_D_final": 0.5106077955365181,
+  "loss_G_final": 4.318868261307478,
+  "D_x_final": 0.8504100028062239,
+  "D_G_z_final": 0.04964769285044167,
+  "nn_generada_media": 17.796005249023438,
+  "nn_real_media": 12.438088417053223,
+  "fraccion_generadas_mas_cerca_que_p5_real": 0.0,
+  "diversidad_generadas": 27.092010498046875,
+  "diversidad_reales": 27.255456924438477
+}
